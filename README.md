@@ -3,6 +3,9 @@
 
 ###### REQUIREMENTS [Python 3.10.6](https://www.python.org/downloads/), Git
 
+
+
+
 Extract the Zip file and run ```launch.py```, In terminal type ```python3 launch.py```
 
 
