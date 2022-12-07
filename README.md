@@ -7,4 +7,5 @@ Use ```git clone https://github.com/cokie1479/stable-diffusion/``` to download t
 
 Run install.sh for initial setup.  Use ```bash install.sh``` to run setup script
 
-Open launch.py to start up the web interface after initial setup.  Use ```python3 launch.py``` in the ```/stable-diffusion-webui/``` directory in the terminal or just run it.
+Open launch.py to start up the web interface after initial setup.
+Use ```python3 launch.py``` in the ```/stable-diffusion-webui/``` directory in the terminal or just run it.
